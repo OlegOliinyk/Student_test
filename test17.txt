@@ -1,0 +1,3 @@
+1 2 nnnnnnn_nnnnnnnnnn_nnnnnnn_nnnnnnnnn_nnnnnnnnn_nnnnnnnn_nnnnnnnnnn nnnnnnn 1 nnn_nnnnnnnn 0 nnnnn_nnnnn_nnnnn 0 nnnnn_nnnnnnnn_nnnnnnn_nnnnnnn 0
+2 3 ddddddd_ddddddddddddddd_dddddddd_dddddddddd_dddddddddddddd_ddddddddddddd_ddddddddd_dddddd d 0 dd 0 ddd 1 dddd 0
+3 1 vvvvvvvvv_vvvvvvvvvvvv_vvvvvvvvv_vvvvvvvvvv_vvvvvvvvvvv_vvvvvvvvvvv_vvvvvvvvvvvv_vvvvv vvv 0 vvvv_vvv 0 vvv_vvvvv_vvvvv 1 vvv_vvv_vvv_vvvv 0
